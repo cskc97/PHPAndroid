@@ -66,6 +66,8 @@ $userPassword = $_POST['password'];
 //CHECKING IF USER EXISTS
 //CheckAndRegister("anotheruser222","pass2222");
 
+echo("Hello World");
+
 
 ?>
 
